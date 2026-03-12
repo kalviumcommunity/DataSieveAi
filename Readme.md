@@ -104,7 +104,4 @@ The core philosophy of this project is that meaningful detection is not just a m
 - Hrishob Pal
 - Sadvika U
 
-Team: 
-- Ashwin Vivegan L
-- Hrishob Pal
-- Sadvika U
+

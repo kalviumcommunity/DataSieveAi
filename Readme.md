@@ -95,3 +95,13 @@ The core philosophy of this project is that meaningful detection is not just a m
 ---
 
 *DataSieveAi — Filtering signal from noise, before the damage is done.*
+
+---
+
+## Team
+
+- Ashwin Vivegan L
+- Hrishob Pal
+- Sadvika U
+
+

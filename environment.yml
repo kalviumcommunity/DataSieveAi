@@ -1,0 +1,20 @@
+name: datasieveai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - jupyter
+  - notebook
+  - ipykernel
+  - pip
+  - pip:
+      - nltk
+      - spacy
+      - networkx
+      - streamlit
